@@ -7,8 +7,6 @@ body {
     height: 100vh;
     transition: background-color 0.3s, color 0.3s;
 }
-
-/* Container */
 .container {
     background-color: inherit;
     border: 2px solid currentColor;
@@ -18,13 +16,9 @@ body {
     width: 300px;
     text-align: center;
 }
-
-/* Form Heading */
 h1 {
-    margin-bottom: 20px;
+    margin-bottom: 20px
 }
-
-/* Input Fields */
 .input input {
     width: 100%;
     padding: 10px;
