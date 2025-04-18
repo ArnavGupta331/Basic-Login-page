@@ -5,7 +5,6 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    transition: background-color 0.3s, color 0.3s;
 }
 .container {
     background-color: inherit;
@@ -17,7 +16,7 @@ body {
     text-align: center;
 }
 h1 {
-    margin-bottom: 20px
+    margin-bottom: 20px;
 }
 .input input {
     width: 100%;
@@ -33,7 +32,6 @@ h1 {
 .button button {
     width: 100%;
     padding: 10px;
-    border: none;
     border-radius: 6px;
     background-color: #4CAF50;
     color: white;
